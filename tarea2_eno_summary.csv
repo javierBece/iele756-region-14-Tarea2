@@ -1,0 +1,4 @@
+codigo_comuna,nombre_comuna,eno_total,eno_known_nat,eno_chilean,eno_foreign,eno_pct_foreign_known,eno_pct_unknown_nat,eno_top3_diseases,eno_rate_per_10k
+13111,La Granja,943,562,454,108,19.217081850533805,40.402969247083774,"VIH, Parotiditis, Coqueluche",84.17989323525737
+13118,Macul,890,515,405,110,21.35922330097087,42.13483146067416,"VIH, Parotiditis, Coqueluche",71.89014539579968
+13131,San Ramón,687,413,359,54,13.075060532687651,39.88355167394469,"VIH, Parotiditis, Coqueluche",90.39235809583958
